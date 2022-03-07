@@ -29,6 +29,6 @@ Through this Project, I have learnt so many things about Django web development.
 * Radio button 
 * Django forms
 
-## Acknowledgement
+# Acknowledgement
 
 Youtube: Nilesh Technology

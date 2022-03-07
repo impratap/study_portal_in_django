@@ -32,4 +32,5 @@ Through this Project, I have learnt so many things about Django web development.
 # Acknowledgement
 
 Youtube: Nilesh Technology
+
 Book: Django for Brginners
